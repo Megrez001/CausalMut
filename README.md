@@ -11,6 +11,7 @@ CausalMut is a deep learning framework that integrates multi-modal features (pro
 ### ESM-2 Model
 ```bash
 wget https://dl.fbaipublicfiles.com/fair-esm/models/esm2_t33_650M_UR50D.pt
+```
 
 ### MolT5 Model
 ```bash
