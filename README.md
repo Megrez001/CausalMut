@@ -1,7 +1,7 @@
-# CausalMut
+### CausalMut
 CausalMut: A Causal Deep Learning Framework for Enzyme Mutational Effect Prediction
 
-## Overview
+### Overview
 
 CausalMut is a deep learning framework that integrates multi-modal features (protein sequences, molecular structures, and mutation information) with a causal-inspired architecture to predict enzyme mutant catalytic efficiency .
 ![Framework](figure/fig3.png)
